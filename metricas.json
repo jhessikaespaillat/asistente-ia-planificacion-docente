@@ -1,0 +1,57 @@
+{
+  "evaluacion": "Datos sintéticos con etiquetas generadas por reglas: NO evidencia de pertinencia real",
+  "n_registros": 480,
+  "train": 360,
+  "test": 120,
+  "seleccion": "Random Forest",
+  "modelos": [
+    {
+      "modelo": "Random Forest",
+      "cv_f1_macro_mean": 1.0,
+      "test_accuracy": 1.0,
+      "test_precision_macro": 1.0,
+      "test_recall_macro": 1.0,
+      "test_f1_macro": 1.0
+    },
+    {
+      "modelo": "Regresión logística",
+      "cv_f1_macro_mean": 1.0,
+      "test_accuracy": 1.0,
+      "test_precision_macro": 1.0,
+      "test_recall_macro": 1.0,
+      "test_f1_macro": 1.0
+    }
+  ],
+  "matriz_confusion": [
+    [
+      30,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      30,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      30,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      30
+    ]
+  ],
+  "clases": [
+    "Aprendizaje basado en problemas",
+    "Aprendizaje cooperativo",
+    "Proyecto de profundización",
+    "Práctica guiada"
+  ]
+}

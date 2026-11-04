@@ -1,0 +1,481 @@
+﻿id_escenario,nivel,asignatura,necesidad,tipo_contenido,recursos,duracion_min,estrategia
+SIN-0001,Primaria,Matemáticas,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0002,Secundaria,Matemáticas,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0003,Superior,Matemáticas,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0004,Primaria,Lengua Española,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0005,Secundaria,Lengua Española,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0006,Superior,Lengua Española,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0007,Primaria,Ciencias Naturales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0008,Secundaria,Ciencias Naturales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0009,Superior,Ciencias Naturales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0010,Primaria,Ciencias Sociales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0011,Secundaria,Ciencias Sociales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0012,Superior,Ciencias Sociales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0013,Primaria,Matemáticas,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0014,Secundaria,Matemáticas,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0015,Superior,Matemáticas,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0016,Primaria,Lengua Española,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0017,Secundaria,Lengua Española,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0018,Superior,Lengua Española,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0019,Primaria,Ciencias Naturales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0020,Secundaria,Ciencias Naturales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0021,Superior,Ciencias Naturales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0022,Primaria,Ciencias Sociales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0023,Secundaria,Ciencias Sociales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0024,Superior,Ciencias Sociales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0025,Primaria,Matemáticas,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0026,Secundaria,Matemáticas,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0027,Superior,Matemáticas,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0028,Primaria,Lengua Española,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0029,Secundaria,Lengua Española,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0030,Superior,Lengua Española,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0031,Primaria,Ciencias Naturales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0032,Secundaria,Ciencias Naturales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0033,Superior,Ciencias Naturales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0034,Primaria,Ciencias Sociales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0035,Secundaria,Ciencias Sociales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0036,Superior,Ciencias Sociales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0037,Primaria,Matemáticas,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0038,Secundaria,Matemáticas,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0039,Superior,Matemáticas,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0040,Primaria,Lengua Española,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0041,Secundaria,Lengua Española,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0042,Superior,Lengua Española,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0043,Primaria,Ciencias Naturales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0044,Secundaria,Ciencias Naturales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0045,Superior,Ciencias Naturales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0046,Primaria,Ciencias Sociales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0047,Secundaria,Ciencias Sociales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0048,Superior,Ciencias Sociales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0049,Primaria,Matemáticas,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0050,Secundaria,Matemáticas,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0051,Superior,Matemáticas,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0052,Primaria,Lengua Española,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0053,Secundaria,Lengua Española,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0054,Superior,Lengua Española,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0055,Primaria,Ciencias Naturales,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0056,Secundaria,Ciencias Naturales,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0057,Superior,Ciencias Naturales,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0058,Primaria,Ciencias Sociales,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0059,Secundaria,Ciencias Sociales,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0060,Superior,Ciencias Sociales,Refuerzo,Procedimental,Básicos,60,Práctica guiada
+SIN-0061,Primaria,Matemáticas,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0062,Secundaria,Matemáticas,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0063,Superior,Matemáticas,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0064,Primaria,Lengua Española,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0065,Secundaria,Lengua Española,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0066,Superior,Lengua Española,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0067,Primaria,Ciencias Naturales,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0068,Secundaria,Ciencias Naturales,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0069,Superior,Ciencias Naturales,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0070,Primaria,Ciencias Sociales,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0071,Secundaria,Ciencias Sociales,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0072,Superior,Ciencias Sociales,Colaboración,Procedimental,Básicos,60,Aprendizaje cooperativo
+SIN-0073,Primaria,Matemáticas,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0074,Secundaria,Matemáticas,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0075,Superior,Matemáticas,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0076,Primaria,Lengua Española,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0077,Secundaria,Lengua Española,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0078,Superior,Lengua Española,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0079,Primaria,Ciencias Naturales,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0080,Secundaria,Ciencias Naturales,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0081,Superior,Ciencias Naturales,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0082,Primaria,Ciencias Sociales,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0083,Secundaria,Ciencias Sociales,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0084,Superior,Ciencias Sociales,Aplicación,Procedimental,Básicos,90,Aprendizaje basado en problemas
+SIN-0085,Primaria,Matemáticas,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0086,Secundaria,Matemáticas,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0087,Superior,Matemáticas,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0088,Primaria,Lengua Española,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0089,Secundaria,Lengua Española,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0090,Superior,Lengua Española,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0091,Primaria,Ciencias Naturales,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0092,Secundaria,Ciencias Naturales,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0093,Superior,Ciencias Naturales,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0094,Primaria,Ciencias Sociales,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0095,Secundaria,Ciencias Sociales,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0096,Superior,Ciencias Sociales,Profundización,Procedimental,Básicos,90,Proyecto de profundización
+SIN-0097,Primaria,Matemáticas,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0098,Secundaria,Matemáticas,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0099,Superior,Matemáticas,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0100,Primaria,Lengua Española,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0101,Secundaria,Lengua Española,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0102,Superior,Lengua Española,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0103,Primaria,Ciencias Naturales,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0104,Secundaria,Ciencias Naturales,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0105,Superior,Ciencias Naturales,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0106,Primaria,Ciencias Sociales,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0107,Secundaria,Ciencias Sociales,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0108,Superior,Ciencias Sociales,Refuerzo,Contextual,Básicos,90,Práctica guiada
+SIN-0109,Primaria,Matemáticas,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0110,Secundaria,Matemáticas,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0111,Superior,Matemáticas,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0112,Primaria,Lengua Española,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0113,Secundaria,Lengua Española,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0114,Superior,Lengua Española,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0115,Primaria,Ciencias Naturales,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0116,Secundaria,Ciencias Naturales,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0117,Superior,Ciencias Naturales,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0118,Primaria,Ciencias Sociales,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0119,Secundaria,Ciencias Sociales,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0120,Superior,Ciencias Sociales,Colaboración,Contextual,Básicos,45,Aprendizaje cooperativo
+SIN-0121,Primaria,Matemáticas,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0122,Secundaria,Matemáticas,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0123,Superior,Matemáticas,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0124,Primaria,Lengua Española,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0125,Secundaria,Lengua Española,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0126,Superior,Lengua Española,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0127,Primaria,Ciencias Naturales,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0128,Secundaria,Ciencias Naturales,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0129,Superior,Ciencias Naturales,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0130,Primaria,Ciencias Sociales,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0131,Secundaria,Ciencias Sociales,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0132,Superior,Ciencias Sociales,Aplicación,Contextual,Básicos,45,Aprendizaje basado en problemas
+SIN-0133,Primaria,Matemáticas,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0134,Secundaria,Matemáticas,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0135,Superior,Matemáticas,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0136,Primaria,Lengua Española,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0137,Secundaria,Lengua Española,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0138,Superior,Lengua Española,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0139,Primaria,Ciencias Naturales,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0140,Secundaria,Ciencias Naturales,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0141,Superior,Ciencias Naturales,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0142,Primaria,Ciencias Sociales,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0143,Secundaria,Ciencias Sociales,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0144,Superior,Ciencias Sociales,Profundización,Contextual,Básicos,45,Proyecto de profundización
+SIN-0145,Primaria,Matemáticas,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0146,Secundaria,Matemáticas,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0147,Superior,Matemáticas,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0148,Primaria,Lengua Española,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0149,Secundaria,Lengua Española,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0150,Superior,Lengua Española,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0151,Primaria,Ciencias Naturales,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0152,Secundaria,Ciencias Naturales,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0153,Superior,Ciencias Naturales,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0154,Primaria,Ciencias Sociales,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0155,Secundaria,Ciencias Sociales,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0156,Superior,Ciencias Sociales,Refuerzo,Conceptual,Digitales,60,Práctica guiada
+SIN-0157,Primaria,Matemáticas,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0158,Secundaria,Matemáticas,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0159,Superior,Matemáticas,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0160,Primaria,Lengua Española,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0161,Secundaria,Lengua Española,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0162,Superior,Lengua Española,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0163,Primaria,Ciencias Naturales,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0164,Secundaria,Ciencias Naturales,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0165,Superior,Ciencias Naturales,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0166,Primaria,Ciencias Sociales,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0167,Secundaria,Ciencias Sociales,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0168,Superior,Ciencias Sociales,Colaboración,Conceptual,Digitales,60,Aprendizaje cooperativo
+SIN-0169,Primaria,Matemáticas,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0170,Secundaria,Matemáticas,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0171,Superior,Matemáticas,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0172,Primaria,Lengua Española,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0173,Secundaria,Lengua Española,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0174,Superior,Lengua Española,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0175,Primaria,Ciencias Naturales,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0176,Secundaria,Ciencias Naturales,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0177,Superior,Ciencias Naturales,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0178,Primaria,Ciencias Sociales,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0179,Secundaria,Ciencias Sociales,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0180,Superior,Ciencias Sociales,Aplicación,Conceptual,Digitales,60,Aprendizaje basado en problemas
+SIN-0181,Primaria,Matemáticas,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0182,Secundaria,Matemáticas,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0183,Superior,Matemáticas,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0184,Primaria,Lengua Española,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0185,Secundaria,Lengua Española,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0186,Superior,Lengua Española,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0187,Primaria,Ciencias Naturales,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0188,Secundaria,Ciencias Naturales,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0189,Superior,Ciencias Naturales,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0190,Primaria,Ciencias Sociales,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0191,Secundaria,Ciencias Sociales,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0192,Superior,Ciencias Sociales,Profundización,Conceptual,Digitales,90,Proyecto de profundización
+SIN-0193,Primaria,Matemáticas,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0194,Secundaria,Matemáticas,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0195,Superior,Matemáticas,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0196,Primaria,Lengua Española,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0197,Secundaria,Lengua Española,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0198,Superior,Lengua Española,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0199,Primaria,Ciencias Naturales,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0200,Secundaria,Ciencias Naturales,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0201,Superior,Ciencias Naturales,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0202,Primaria,Ciencias Sociales,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0203,Secundaria,Ciencias Sociales,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0204,Superior,Ciencias Sociales,Refuerzo,Procedimental,Digitales,90,Práctica guiada
+SIN-0205,Primaria,Matemáticas,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0206,Secundaria,Matemáticas,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0207,Superior,Matemáticas,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0208,Primaria,Lengua Española,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0209,Secundaria,Lengua Española,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0210,Superior,Lengua Española,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0211,Primaria,Ciencias Naturales,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0212,Secundaria,Ciencias Naturales,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0213,Superior,Ciencias Naturales,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0214,Primaria,Ciencias Sociales,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0215,Secundaria,Ciencias Sociales,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0216,Superior,Ciencias Sociales,Colaboración,Procedimental,Digitales,90,Aprendizaje cooperativo
+SIN-0217,Primaria,Matemáticas,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0218,Secundaria,Matemáticas,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0219,Superior,Matemáticas,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0220,Primaria,Lengua Española,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0221,Secundaria,Lengua Española,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0222,Superior,Lengua Española,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0223,Primaria,Ciencias Naturales,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0224,Secundaria,Ciencias Naturales,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0225,Superior,Ciencias Naturales,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0226,Primaria,Ciencias Sociales,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0227,Secundaria,Ciencias Sociales,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0228,Superior,Ciencias Sociales,Aplicación,Procedimental,Digitales,45,Aprendizaje basado en problemas
+SIN-0229,Primaria,Matemáticas,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0230,Secundaria,Matemáticas,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0231,Superior,Matemáticas,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0232,Primaria,Lengua Española,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0233,Secundaria,Lengua Española,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0234,Superior,Lengua Española,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0235,Primaria,Ciencias Naturales,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0236,Secundaria,Ciencias Naturales,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0237,Superior,Ciencias Naturales,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0238,Primaria,Ciencias Sociales,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0239,Secundaria,Ciencias Sociales,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0240,Superior,Ciencias Sociales,Profundización,Procedimental,Digitales,45,Proyecto de profundización
+SIN-0241,Primaria,Matemáticas,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0242,Secundaria,Matemáticas,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0243,Superior,Matemáticas,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0244,Primaria,Lengua Española,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0245,Secundaria,Lengua Española,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0246,Superior,Lengua Española,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0247,Primaria,Ciencias Naturales,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0248,Secundaria,Ciencias Naturales,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0249,Superior,Ciencias Naturales,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0250,Primaria,Ciencias Sociales,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0251,Secundaria,Ciencias Sociales,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0252,Superior,Ciencias Sociales,Refuerzo,Contextual,Digitales,45,Práctica guiada
+SIN-0253,Primaria,Matemáticas,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0254,Secundaria,Matemáticas,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0255,Superior,Matemáticas,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0256,Primaria,Lengua Española,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0257,Secundaria,Lengua Española,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0258,Superior,Lengua Española,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0259,Primaria,Ciencias Naturales,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0260,Secundaria,Ciencias Naturales,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0261,Superior,Ciencias Naturales,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0262,Primaria,Ciencias Sociales,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0263,Secundaria,Ciencias Sociales,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0264,Superior,Ciencias Sociales,Colaboración,Contextual,Digitales,60,Aprendizaje cooperativo
+SIN-0265,Primaria,Matemáticas,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0266,Secundaria,Matemáticas,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0267,Superior,Matemáticas,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0268,Primaria,Lengua Española,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0269,Secundaria,Lengua Española,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0270,Superior,Lengua Española,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0271,Primaria,Ciencias Naturales,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0272,Secundaria,Ciencias Naturales,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0273,Superior,Ciencias Naturales,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0274,Primaria,Ciencias Sociales,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0275,Secundaria,Ciencias Sociales,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0276,Superior,Ciencias Sociales,Aplicación,Contextual,Digitales,60,Aprendizaje basado en problemas
+SIN-0277,Primaria,Matemáticas,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0278,Secundaria,Matemáticas,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0279,Superior,Matemáticas,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0280,Primaria,Lengua Española,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0281,Secundaria,Lengua Española,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0282,Superior,Lengua Española,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0283,Primaria,Ciencias Naturales,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0284,Secundaria,Ciencias Naturales,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0285,Superior,Ciencias Naturales,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0286,Primaria,Ciencias Sociales,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0287,Secundaria,Ciencias Sociales,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0288,Superior,Ciencias Sociales,Profundización,Contextual,Digitales,60,Proyecto de profundización
+SIN-0289,Primaria,Matemáticas,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0290,Secundaria,Matemáticas,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0291,Superior,Matemáticas,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0292,Primaria,Lengua Española,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0293,Secundaria,Lengua Española,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0294,Superior,Lengua Española,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0295,Primaria,Ciencias Naturales,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0296,Secundaria,Ciencias Naturales,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0297,Superior,Ciencias Naturales,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0298,Primaria,Ciencias Sociales,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0299,Secundaria,Ciencias Sociales,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0300,Superior,Ciencias Sociales,Refuerzo,Conceptual,Manipulativos,90,Práctica guiada
+SIN-0301,Primaria,Matemáticas,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0302,Secundaria,Matemáticas,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0303,Superior,Matemáticas,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0304,Primaria,Lengua Española,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0305,Secundaria,Lengua Española,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0306,Superior,Lengua Española,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0307,Primaria,Ciencias Naturales,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0308,Secundaria,Ciencias Naturales,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0309,Superior,Ciencias Naturales,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0310,Primaria,Ciencias Sociales,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0311,Secundaria,Ciencias Sociales,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0312,Superior,Ciencias Sociales,Colaboración,Conceptual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0313,Primaria,Matemáticas,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0314,Secundaria,Matemáticas,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0315,Superior,Matemáticas,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0316,Primaria,Lengua Española,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0317,Secundaria,Lengua Española,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0318,Superior,Lengua Española,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0319,Primaria,Ciencias Naturales,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0320,Secundaria,Ciencias Naturales,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0321,Superior,Ciencias Naturales,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0322,Primaria,Ciencias Sociales,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0323,Secundaria,Ciencias Sociales,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0324,Superior,Ciencias Sociales,Aplicación,Conceptual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0325,Primaria,Matemáticas,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0326,Secundaria,Matemáticas,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0327,Superior,Matemáticas,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0328,Primaria,Lengua Española,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0329,Secundaria,Lengua Española,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0330,Superior,Lengua Española,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0331,Primaria,Ciencias Naturales,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0332,Secundaria,Ciencias Naturales,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0333,Superior,Ciencias Naturales,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0334,Primaria,Ciencias Sociales,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0335,Secundaria,Ciencias Sociales,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0336,Superior,Ciencias Sociales,Profundización,Conceptual,Manipulativos,45,Proyecto de profundización
+SIN-0337,Primaria,Matemáticas,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0338,Secundaria,Matemáticas,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0339,Superior,Matemáticas,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0340,Primaria,Lengua Española,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0341,Secundaria,Lengua Española,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0342,Superior,Lengua Española,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0343,Primaria,Ciencias Naturales,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0344,Secundaria,Ciencias Naturales,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0345,Superior,Ciencias Naturales,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0346,Primaria,Ciencias Sociales,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0347,Secundaria,Ciencias Sociales,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0348,Superior,Ciencias Sociales,Refuerzo,Procedimental,Manipulativos,45,Práctica guiada
+SIN-0349,Primaria,Matemáticas,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0350,Secundaria,Matemáticas,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0351,Superior,Matemáticas,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0352,Primaria,Lengua Española,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0353,Secundaria,Lengua Española,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0354,Superior,Lengua Española,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0355,Primaria,Ciencias Naturales,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0356,Secundaria,Ciencias Naturales,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0357,Superior,Ciencias Naturales,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0358,Primaria,Ciencias Sociales,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0359,Secundaria,Ciencias Sociales,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0360,Superior,Ciencias Sociales,Colaboración,Procedimental,Manipulativos,45,Aprendizaje cooperativo
+SIN-0361,Primaria,Matemáticas,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0362,Secundaria,Matemáticas,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0363,Superior,Matemáticas,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0364,Primaria,Lengua Española,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0365,Secundaria,Lengua Española,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0366,Superior,Lengua Española,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0367,Primaria,Ciencias Naturales,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0368,Secundaria,Ciencias Naturales,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0369,Superior,Ciencias Naturales,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0370,Primaria,Ciencias Sociales,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0371,Secundaria,Ciencias Sociales,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0372,Superior,Ciencias Sociales,Aplicación,Procedimental,Manipulativos,60,Aprendizaje basado en problemas
+SIN-0373,Primaria,Matemáticas,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0374,Secundaria,Matemáticas,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0375,Superior,Matemáticas,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0376,Primaria,Lengua Española,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0377,Secundaria,Lengua Española,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0378,Superior,Lengua Española,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0379,Primaria,Ciencias Naturales,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0380,Secundaria,Ciencias Naturales,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0381,Superior,Ciencias Naturales,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0382,Primaria,Ciencias Sociales,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0383,Secundaria,Ciencias Sociales,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0384,Superior,Ciencias Sociales,Profundización,Procedimental,Manipulativos,60,Proyecto de profundización
+SIN-0385,Primaria,Matemáticas,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0386,Secundaria,Matemáticas,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0387,Superior,Matemáticas,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0388,Primaria,Lengua Española,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0389,Secundaria,Lengua Española,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0390,Superior,Lengua Española,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0391,Primaria,Ciencias Naturales,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0392,Secundaria,Ciencias Naturales,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0393,Superior,Ciencias Naturales,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0394,Primaria,Ciencias Sociales,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0395,Secundaria,Ciencias Sociales,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0396,Superior,Ciencias Sociales,Refuerzo,Contextual,Manipulativos,60,Práctica guiada
+SIN-0397,Primaria,Matemáticas,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0398,Secundaria,Matemáticas,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0399,Superior,Matemáticas,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0400,Primaria,Lengua Española,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0401,Secundaria,Lengua Española,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0402,Superior,Lengua Española,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0403,Primaria,Ciencias Naturales,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0404,Secundaria,Ciencias Naturales,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0405,Superior,Ciencias Naturales,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0406,Primaria,Ciencias Sociales,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0407,Secundaria,Ciencias Sociales,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0408,Superior,Ciencias Sociales,Colaboración,Contextual,Manipulativos,90,Aprendizaje cooperativo
+SIN-0409,Primaria,Matemáticas,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0410,Secundaria,Matemáticas,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0411,Superior,Matemáticas,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0412,Primaria,Lengua Española,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0413,Secundaria,Lengua Española,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0414,Superior,Lengua Española,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0415,Primaria,Ciencias Naturales,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0416,Secundaria,Ciencias Naturales,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0417,Superior,Ciencias Naturales,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0418,Primaria,Ciencias Sociales,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0419,Secundaria,Ciencias Sociales,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0420,Superior,Ciencias Sociales,Aplicación,Contextual,Manipulativos,90,Aprendizaje basado en problemas
+SIN-0421,Primaria,Matemáticas,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0422,Secundaria,Matemáticas,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0423,Superior,Matemáticas,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0424,Primaria,Lengua Española,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0425,Secundaria,Lengua Española,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0426,Superior,Lengua Española,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0427,Primaria,Ciencias Naturales,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0428,Secundaria,Ciencias Naturales,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0429,Superior,Ciencias Naturales,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0430,Primaria,Ciencias Sociales,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0431,Secundaria,Ciencias Sociales,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0432,Superior,Ciencias Sociales,Profundización,Contextual,Manipulativos,90,Proyecto de profundización
+SIN-0433,Primaria,Matemáticas,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0434,Secundaria,Matemáticas,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0435,Superior,Matemáticas,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0436,Primaria,Lengua Española,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0437,Secundaria,Lengua Española,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0438,Superior,Lengua Española,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0439,Primaria,Ciencias Naturales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0440,Secundaria,Ciencias Naturales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0441,Superior,Ciencias Naturales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0442,Primaria,Ciencias Sociales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0443,Secundaria,Ciencias Sociales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0444,Superior,Ciencias Sociales,Refuerzo,Conceptual,Básicos,45,Práctica guiada
+SIN-0445,Primaria,Matemáticas,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0446,Secundaria,Matemáticas,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0447,Superior,Matemáticas,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0448,Primaria,Lengua Española,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0449,Secundaria,Lengua Española,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0450,Superior,Lengua Española,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0451,Primaria,Ciencias Naturales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0452,Secundaria,Ciencias Naturales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0453,Superior,Ciencias Naturales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0454,Primaria,Ciencias Sociales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0455,Secundaria,Ciencias Sociales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0456,Superior,Ciencias Sociales,Colaboración,Conceptual,Básicos,45,Aprendizaje cooperativo
+SIN-0457,Primaria,Matemáticas,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0458,Secundaria,Matemáticas,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0459,Superior,Matemáticas,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0460,Primaria,Lengua Española,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0461,Secundaria,Lengua Española,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0462,Superior,Lengua Española,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0463,Primaria,Ciencias Naturales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0464,Secundaria,Ciencias Naturales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0465,Superior,Ciencias Naturales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0466,Primaria,Ciencias Sociales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0467,Secundaria,Ciencias Sociales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0468,Superior,Ciencias Sociales,Aplicación,Conceptual,Básicos,45,Aprendizaje basado en problemas
+SIN-0469,Primaria,Matemáticas,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0470,Secundaria,Matemáticas,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0471,Superior,Matemáticas,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0472,Primaria,Lengua Española,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0473,Secundaria,Lengua Española,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0474,Superior,Lengua Española,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0475,Primaria,Ciencias Naturales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0476,Secundaria,Ciencias Naturales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0477,Superior,Ciencias Naturales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0478,Primaria,Ciencias Sociales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0479,Secundaria,Ciencias Sociales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
+SIN-0480,Superior,Ciencias Sociales,Profundización,Conceptual,Básicos,60,Proyecto de profundización
