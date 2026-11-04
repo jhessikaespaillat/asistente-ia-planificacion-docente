@@ -9,3 +9,8 @@ El Asistente de Inteligencia Artificial para la Planificación Docente se encuen
 [Abrir aplicación en Streamlit](https://asistente-ia-planificacion-docente-exzs7ckpwvpogrmyshh82v.streamlit.app/)
 
 La aplicación permite explorar los datos, consultar los resultados de los modelos y generar un borrador experimental de planificación docente.
+## Cuaderno Jupyter
+
+El cuaderno contiene el análisis de 480 escenarios sintéticos, el entrenamiento de Regresión Logística y Random Forest y la evaluación del modelo seleccionado.
+
+[Ver cuaderno Jupyter](https://github.com/jhessikaespaillat/asistente-ia-planificacion-docente/blob/main/Proyecto_ML_Planificacion_Docente.ipynb)
