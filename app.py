@@ -15,12 +15,12 @@ st.warning("Demostración experimental: el modelo fue entrenado con 480 escenari
 
 @st.cache_resource
 def load_model():
-    return joblib.load(ROOT / "modelos" / "clasificador_estrategias.joblib")
+    return joblib.load(ROOT / "clasificador_estrategias.joblib")
 
 @st.cache_data
 def load_data():
-    data = pd.read_csv(ROOT / "data" / "escenarios_sinteticos.csv")
-    results = json.loads((ROOT / "data" / "metricas.json").read_text(encoding="utf-8"))
+    data = pd.read_csv(ROOT / "escenarios_sinteticos.csv")
+    results = json.loads((ROOT / "metricas.json").read_text(encoding="utf-8"))
     return data, results
 
 model = load_model()
